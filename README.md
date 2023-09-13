@@ -1,6 +1,6 @@
 # Arduino Binary to Decimal
 
-This project made with Arduino and coded in C++, converts a binary number from 0 to 8 to decimal, using a 7 segment visualizer to show the answer. The number must be given through a set of switches representing each power of 2 starting from the right to the left.
+This project made with Arduino and coded in C++, converts a binary number from 0 to 8 to decimal, using a 7 segment visualizer to show the answer. The number must be given through a set of switches representing each power of 2 from right to left.
 
 ## Materials
 
