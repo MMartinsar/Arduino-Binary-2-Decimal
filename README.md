@@ -5,8 +5,11 @@ This project made with Arduino and coded in C++, converts a binary number from 0
 ## Materials
 
 - Arduino Uno R3
-- 4 x LED light bulbs
-- 4 x 220 Ω resistors
+- Protoboard
+- 7 x 220 Ω resistors
+- 4 x 10 kΩ resistors
+- Seven segment display (cathode)
+- DIP switch interruptor x4
 - Cables
 
 ## Circuit Design
